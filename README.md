@@ -202,7 +202,19 @@ Issue機能では、そのプロジェクトに関するタスクを管理・閲
 Good First Issue
 https://goodfirstissue.dev/
 
-### 5.リファレンス
+### 5.より良いブランチ名・コミットメッセージの書き方
+代表的なコミットメッセージの書き方の仕様として、「Conventional Commits」があります。
+
+Conventional Commits
+https://www.conventionalcommits.org/ja/v1.0.0/
+
+### 6.よく使うGitコマンド集
+@uhooi
+Gitでよく使うコマンド一覧 - Qiita
+
+https://qiita.com/uhooi/items/c26c7c1beb5b36e7418e
+
+### 7.リファレンス
 EaGitro
 git-process-training
 
