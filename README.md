@@ -180,7 +180,7 @@ Thumbs.db
 - エンジニアとして就活をしていると、ESなどで自分のGitHubのプロフィールリンク(https://github.com/<ユーザ名>)を求められることが多々あります。
 - 自分が実際に書いているコードを見てもらうことができるチャンスorピンチです。
 - 自分のユーザ名のリポジトリを作り、README.mdを作ると、自分のプロフィールページに表示することができます。
-- 採用担当者に見てもらいやすくしておくといいかも。
+- 採用担当者に見てもらいやすくしておくといいです。
 ### 4.GitHub✕オープンソース文化
 GitHubとオープンソース文化は密接に関連しており、相互に発展してきました。
 GitHub自体がオープンソース開発のためのインフラを提供することで、オープンソース文化の拡大と発展に大きく貢献してきました。
@@ -190,11 +190,33 @@ GitHub自体がオープンソース開発のためのインフラを提供す�
 - コミュニティ形成：GitHubはIssues、Discussions、Sponsors機能などを通じて、コードを中心としたコミュニティ形成をサポートしています。
 - オープンソースライセンス：GitHubはリポジトリ作成時にライセンスの選択を促し、オープンソースライセンスの普及に貢献しています。
 
-現在では多くの主要なオープンソースプロジェクト（Linux、React、TensorFlowなど）がGitHub上でホスティングされ、世界中の企業もオープンソースへの貢献を積極的に行うようになっています。
+現在では多くの主要なOSS(オープンソースソフトウェア（Linux、React、TensorFlowなど))がGitHub上でホスティングされ、世界中の企業もオープンソースへの貢献を積極的に行うようになっています。
 GitHubが2018年にMicrosoftに買収された際には、オープンソースコミュニティの一部から懸念の声もありましたが、買収後もGitHubのオープンソースへの貢献は継続・拡大しています。
+
+**Good First Issue**
+
+Issue機能では、そのプロジェクトに関するタスクを管理・閲覧することができますが、パブリックに公開されているOSSでは、世界中の誰でもそのタスクに取り組むことができるようになっている場合が多くあります。
+意欲と自信のある人は、ぜひOSS貢献に取り組んでみましょう。
+初心者向けのタスクを多くのOSSから集めた「Good First Issue」というプラットフォームもあります。まずはここを確認するのが良いでしょう。
+
+Good First Issue
+https://goodfirstissue.dev/
 
 ### 5.リファレンス
 EaGitro
 git-process-training
+
+https://github.com/EaGitro/git-process-training
+
+GitHub Docs
+
+https://docs.github.com/ja
+
+Reference - Git
+
+https://git-scm.com/docs
+
+Git - Wikipedia
+
 https://github.com/EaGitro/git-process-training
 
